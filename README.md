@@ -14,11 +14,11 @@ Link: https://www.hackerrank.com/contests/iskode/challenges/power-complex
 ## Problem 3 - Medium (WHO ARE WE? (Caesar Cipher) - Fully Solved: 50 Points out of 50 Points)
 Link: https://www.hackerrank.com/contests/iskode/challenges/who-are-we-caesar-cipher
 ## Problem 4 - Medium (Array Calculator - Fully Solved: 50 Points out of 50 Points)
-Link: 
+Link: https://www.hackerrank.com/contests/iskode/challenges/array-calculator
 ## Problem 5 - Medium (Pascal give me the value! - Fully Solved: 50 Points out of 50 Points)
-Link: 
+Link: https://www.hackerrank.com/contests/iskode/challenges/pascal-give-me-the-value
 # Optional Problems (for Additional Points)
 ## Problem 6 - Challenge (Password Cracker - No Submission)
 Link: View the PDF file in this repository
 ## Problem 7 - Challenge (DNA - No Submission)
-Link: Given in Google Docs
+Link: View the PDF file in this repository
