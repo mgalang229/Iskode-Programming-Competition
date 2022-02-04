@@ -19,6 +19,6 @@ Link: https://www.hackerrank.com/contests/iskode/challenges/array-calculator
 Link: https://www.hackerrank.com/contests/iskode/challenges/pascal-give-me-the-value
 # Optional Problems (for Additional Points)
 ## Problem 6 - Challenge (Password Cracker - No Submission)
-Link: View the PDF file in this repository
+Link: (View the PDF file in this repository)
 ## Problem 7 - Challenge (DNA - No Submission)
-Link: View the PDF file in this repository
+Link: (View the PDF file in this repository)
