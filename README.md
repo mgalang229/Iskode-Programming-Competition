@@ -1,10 +1,14 @@
 # UP-Baguio-Iskode-Programming-Competition
+## Certificate
+![photo1](https://user-images.githubusercontent.com/51401355/152636503-6770116a-12a6-46ff-ad87-c99efad2dc09.PNG)
+![photo2](https://user-images.githubusercontent.com/51401355/152636507-749162fe-5bd4-44e2-8594-bc391def7d5f.PNG)
+
 ## Final Result
 ### Total Points: 195.00
-### Rank: 
-### Award:
+### Rank: 3rd
+### Award: 3rd Place
 ### Date: February 4, 2022
-### Prize: 
+### Prize: PHP 1000.00
 ## Contest Link (Hackerrank)
 Link: https://www.hackerrank.com/contests/iskode/challenges
 ## Problem 1 - Easy (Pythagorabels Iskoders! - Fully Solved: 15 Points out of 15 Points)
